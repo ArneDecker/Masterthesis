@@ -1,0 +1,1 @@
+start /d "Vorhersage\bin\Debug" Vorhersage.exe
